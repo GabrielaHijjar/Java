@@ -2,12 +2,15 @@
 Desafio de projeto sobre Git/GitHub
 
 ## Links úteis para o desafio
+[GitHub Desktop](https://git-scm.com/downloads/guis) 
+
+
 ## Guias GIT
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [Git Push e Pull](https://www.datacamp.com/community/tutorials/git-push-pull)
 
-## \###### Tópicos já realizados
+###### Tópicos já realizados
 
 [Lógica de Programação Essencial](https://certificates.digitalinnovation.one/EB0C10F7)
 
