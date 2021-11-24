@@ -1,3 +1,7 @@
+
+![Estudos](https://w7.pngwing.com/pngs/744/821/png-transparent-learning-higher-education-study-skills-training-qualification-certificate-computer-network-computer-logo.png)
+
+
 # Repositório Bootcamp/Dio
 Desafio de projeto sobre Git/GitHub
 
