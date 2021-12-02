@@ -25,3 +25,5 @@ Desafio de projeto sobre Git/GitHub
 [Introdução ao Git e ao GitHub](https://certificates.digitalinnovation.one/FD93A315)
 
 [Dominando IDEs Java](https://certificates.digitalinnovation.one/FD777763)
+
+[Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://hermes.digitalinnovation.one/certificates/1AA1394B.pdf)
