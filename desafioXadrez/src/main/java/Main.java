@@ -6,12 +6,12 @@ public class Main  {
         int L = sc.nextInt();
         int C = sc.nextInt();
         if ( ( L + C )%2  ==0)
-                 System.out.println(" 1\n  ");
-		else                                               //complete o código nos espaços em branco
+            System.out.println(" 1\n  ");
+        else                                               //complete o código nos espaços em branco
             System.out.println(" 0\n  ");
-            sc.close();
-        }
+        sc.close();
     }
+}
 
 
 
