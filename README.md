@@ -3,7 +3,7 @@
 
 
 # Repositório Bootcamp/Dio
-Desafio de projeto sobre Git/GitHub
+Projetos e Desafio de Bootcamp Digital Innovation One
 
 ## Links úteis para o desafio
 [GitHub Desktop](https://git-scm.com/downloads/guis) 
