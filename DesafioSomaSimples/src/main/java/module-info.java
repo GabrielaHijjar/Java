@@ -5,4 +5,6 @@ module com.example.desafiosomasimples {
 
     opens com.example.desafiosomasimples to javafx.fxml;
     exports com.example.desafiosomasimples;
+    exports desafiosomesimples;
+    opens desafiosomesimples to javafx.fxml;
 }
