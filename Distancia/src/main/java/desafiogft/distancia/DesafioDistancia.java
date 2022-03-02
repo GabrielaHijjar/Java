@@ -14,7 +14,7 @@ package desafiogft.distancia;
 
 import java.util.Scanner;
 
-public class HelloController {
+class HelloController {
     public static void main(String[] args) {
         int minutos;
         Scanner input = new Scanner(System.in);
