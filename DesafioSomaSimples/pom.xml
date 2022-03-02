@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>desafioGFT</groupId>
-    <artifactId>Distancia</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>DesafioSomaSimples</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Distancia</name>
+    <name>DesafioSomaSimples</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -60,7 +60,8 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>desafiogft.distancia/desafiogft.distancia.HelloApplication</mainClass>
+                            <mainClass>com.example.desafiosomasimples/com.example.desafiosomasimples.HelloApplication
+                            </mainClass>
                         </configuration>
                     </execution>
                 </executions>

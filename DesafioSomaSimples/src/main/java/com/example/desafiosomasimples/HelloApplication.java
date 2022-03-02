@@ -1,4 +1,4 @@
-package desafiogft.distancia;
+package com.example.desafiosomasimples;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
