@@ -1,9 +1,10 @@
 
-![Estudos](https://w7.pngwing.com/pngs/744/821/png-transparent-learning-higher-education-study-skills-training-qualification-certificate-computer-network-computer-logo.png)
+![Estudos](https://fluxoconsultoria.poli.ufrj.br/wp-content/uploads/2016/05/photo-1529101091764-c3526daf38fe.jpg)
 
 
 # Repositório Bootcamp/Dio
 Projetos e Desafio de Bootcamp Digital Innovation One
+
 
 ## Links úteis para o desafio
 [GitHub Desktop](https://git-scm.com/downloads/guis) 
@@ -27,3 +28,13 @@ Projetos e Desafio de Bootcamp Digital Innovation One
 [Dominando IDEs Java](https://certificates.digitalinnovation.one/FD777763)
 
 [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://hermes.digitalinnovation.one/certificates/1AA1394B.pdf)
+
+[IDE Instalação e Configuração (Visual Studio Code)](https://www.dio.me/certificate/A5C36F16/share)
+
+[Introdução a criação de websites com HTML5 e CSS3](https://www.dio.me/certificate/AC4760D3/share)
+
+[Reforçando o Conceito de Laços em Java](https://www.dio.me/certificate/315ED7F3/share)
+
+[Projetos ágeis com SCRUM](https://www.dio.me/certificate/6AE6EF3C/share)
+
+
