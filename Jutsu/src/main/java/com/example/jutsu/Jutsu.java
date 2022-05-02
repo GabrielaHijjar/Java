@@ -9,8 +9,8 @@ package com.example.jutsu;//Uma das técnicas mais poderosas usadas pelos ninjas
  //       Entrada
  //       A entrada contém vários casos de teste. Cada caso contém uma linha com o número N (1 ≤ N ≤ 106). É garantido que o valor de N é tal que é possível obter exatamente N cópias de um ninja utilizando a técnica (incluindo o original).
 
- //       Saída
-  //      Para cada caso de teste, imprima uma linha contendo o número de vezes que a técnica foi utilizada.
+ //     Saída
+  //    Para cada caso de teste, imprima uma linha contendo o número de vezes que a técnica foi utilizada.
 
 import java.util.Scanner;
 
